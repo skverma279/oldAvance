@@ -18,7 +18,7 @@ const Home = () => {
             <div className="container">
               <div className="caption">
                 <h1> AvanceTest Online IQ</h1>
-                <p>for className (6 to 12).</p>
+                <p>for className (6 to 12)</p>
                 <Link to="/">Buy Now</Link>
               </div>
             </div>
