@@ -1,0 +1,130 @@
+.content_wrapper {
+    margin: 30px auto 20px;
+    width: 100%;
+}
+
+.common_box {
+    border: 1px solid #3498db;
+
+}
+.box_content {
+    padding: 10px 10px 0 10px;
+	overflow: hidden;
+	margin: 10px; 
+	height: 290px;
+	
+}
+.box_content p{
+	color: #a5a5a5;
+}
+
+.box_content img{
+    width: 100%;
+	transition: 1.5s all;
+
+}
+.box_content:hover img{
+	transform: scale(1.1);
+}
+
+.header_box {
+    margin-top: -17px;
+    text-align: center;
+}
+.header_box p{
+	text-align: justify;
+	line-height: 16px;
+	font-size: 14px;
+	padding: 15px 0 0 0;
+	color: #384158;
+	margin-bottom: 0;
+}
+ .hbox_mid {
+    color: #FFFFFF;
+    display: inline;
+    height: 41px;
+    line-height: 35px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #3498db;
+}
+/* 
+.accordian{
+	max-width:100%;
+	display: block;
+	margin:10px auto;
+	
+}
+.card-body p{
+	color: #a5a5a5;
+}
+
+.accordian .card{
+	box-shadow: 0px 0px 5px #d4d4d4;
+	margin-bottom:20px;
+	float: left;
+	width: 100%;
+	border: none;
+	
+}
+.accordian .card .card-header h3{
+	cursor: pointer;
+	color: #384158;
+	position: relative;
+	margin:0; 
+	font-size: 18px;
+	font-weight: 700;
+
+}
+
+.accordian .card .card-header {
+	position: relative;
+	background-color: #FFFFFF;
+	border: none;
+}
+.accordian .card .card-header span{
+	position: absolute;
+	right:20px;
+	top:12px;
+	color:#FFFFFF;
+	text-align: center;
+	line-height:25px;
+	background-color: #3498db;
+	font-size:13px;
+	border: #3498db 1px solid;
+	padding: 0 5px;
+}
+
+.accordian .card .card-body{
+	padding:10px;
+	color: #a5a5a5;
+	margin-left: 20px;
+}
+.accordian .card .card-body{
+	display: none;
+}
+
+.accordian .card:nth-child(1) .card-body{
+ 	display: block;
+}
+.accordian .card .card-body p{
+	font-size: 14px;
+	line-height: 24px;
+	color:#444444;
+	margin:0px;
+} */
+.card_img img{
+	width: 100%;
+	height: 280px;
+	margin-bottom: 20px;
+}
+
+/* accordian */
+.accordion>.card>.card-header{
+	font-weight: 600;
+	font-size: large;
+	cursor: pointer;
+	
+	
+}
