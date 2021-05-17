@@ -7,7 +7,7 @@ const JoinUS = () => {
       <div className="container">
         <div className="row my-3">
           <div className="col text-center">
-              <h2>Join Us container</h2>
+              <h2>Join Us container is work </h2>
           </div>
         </div>
         <div className="row my-3">
